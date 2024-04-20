@@ -1,0 +1,1 @@
+Un proyecto para que la gente pueda aprender desde 0 lo que es JS y seguirlo tanto interesados, principiantes como medios, ya que es un curso totalmente practico en el cual enseñamos conceptos que se veran todo en nuestra carrera y practicas que se usan mayormente.
