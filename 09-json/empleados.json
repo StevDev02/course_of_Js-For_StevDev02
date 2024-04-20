@@ -1,0 +1,38 @@
+
+
+{
+
+
+    "empleados" : [
+
+        {
+
+
+            "id" : 1,
+            "nombre" : "Steven",
+            "puesto" : "Programador Front"
+
+        },
+
+        {
+
+
+            "id" : 2,
+            "nombre" : "Mateo",
+            "puesto" : "Programador Back"
+
+        },
+
+        {
+
+
+            "id" : 3,
+            "nombre" : "Anahi",
+            "puesto" : "Servidores"
+
+        }
+
+    ]
+
+
+}

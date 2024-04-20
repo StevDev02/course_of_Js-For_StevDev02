@@ -1,0 +1,38 @@
+
+
+{
+
+
+    "usuarios" : [
+
+        {
+
+
+            "id" : 1,
+            "nombre" : "Steven",
+            "activo" : true
+
+        },
+
+        {
+
+
+            "id" : 2,
+            "nombre" : "Mateo",
+            "activo" : false
+
+        },
+
+        {
+
+
+            "id" : 3,
+            "nombre" : "Anahi",
+            "activo" : true
+
+        }
+
+    ]
+
+
+}

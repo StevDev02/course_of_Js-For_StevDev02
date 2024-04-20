@@ -1,0 +1,123 @@
+h1 {
+        
+    text-align: center;
+
+}
+
+.button__tap {
+
+    background-color: thistle;
+    border: 1px solid rgb(167, 147, 167);
+    border-radius: 8px;
+    padding: 10px;
+    color: rgb(78, 75, 75);
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition: 0s ease-in;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+
+}
+
+.button__tap:active {
+
+    scale: 1.1;
+
+}
+
+.nav {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+
+}
+
+.nav__link {
+
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+
+}
+
+a {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+
+.form {
+
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background-color: white;
+    width: 500px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 0 0px 10px rgb(78, 75, 75);
+
+}
+
+.form__container {
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    row-gap: 50px;
+
+}
+
+.form__label {
+
+    display: flex;
+    gap: 20px;
+    color: white;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: slategray;
+
+}
+
+.form__input {
+
+    border: 1px solid white;
+    padding: 5px;
+
+}
+
+.form__enviar {
+
+    margin-top: 20px;
+    border: 1px solid slategray;
+    padding: 10px 120px;
+    color: rgb(68, 66, 66);
+    transition: .5s ;
+}
+
+.form__enviar:hover {
+
+    border-radius: 16px;
+    background-color: slategray;
+    color: white;
+
+}
+
+
+.mensaje {
+
+    width: 480px;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+
+}
