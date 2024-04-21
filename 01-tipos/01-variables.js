@@ -11,5 +11,3 @@ const nameUser = 'Luis'
 name = undefined
 //const no puede ser modfiicado
 nameUser = 0
-
-
